@@ -1,0 +1,15 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore vectorstore folder (usually large or generated)
+vectorstore/
+
+# Ignore Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore virtual environments
+venv/
+app/env/
+*.egg-info/
