@@ -9,7 +9,8 @@ __pycache__/
 *.py[cod]
 *.log
 
-# Ignore virtual environments
-venv/
-app/env/
-*.egg-info/
+# Ignore .env in app folder
+app/.env
+
+# Ignore __pycache__ anywhere, including inside app
+**/__pycache__/
