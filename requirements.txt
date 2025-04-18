@@ -1,0 +1,13 @@
+# Core packages
+langchain
+langchain-groq
+langchain-core
+langchain-community
+chromadb
+pandas
+python-dotenv
+streamlit
+
+# For loading from web
+requests
+beautifulsoup4
